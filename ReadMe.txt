@@ -1,4 +1,7 @@
-This smartclient will take a URL input from the user which will be in the form of "www.example.com". If the user does not input "www." then different answers might come up
+To run this program: python3 smartClient.py www.example.com
+Note: Enter any url instead of www.example.com
+
+This smartclient will take any URL input from the user which will be in the form of "www.example.com". If the user does not input "www." then different answers might come up
 #     The smartClient will check if the website supports HTTPS, http1.1 and http2. 
 #     The smartclient will also print the Cookies
 
